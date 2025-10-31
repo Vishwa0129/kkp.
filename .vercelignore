@@ -1,0 +1,6 @@
+# Exclude backend and infra from Vercel upload/build
+api/
+monitoring/
+infrastructure/
+helm/
+k8s/
